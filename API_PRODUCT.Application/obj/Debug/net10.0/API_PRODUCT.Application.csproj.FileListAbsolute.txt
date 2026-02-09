@@ -1,0 +1,16 @@
+C:\Users\SALIFOU Ouzéïrou\RiderProjects\API_PRODUCT\API_PRODUCT.Application\bin\Debug\net10.0\API_PRODUCT.Application.deps.json
+C:\Users\SALIFOU Ouzéïrou\RiderProjects\API_PRODUCT\API_PRODUCT.Application\bin\Debug\net10.0\API_PRODUCT.Application.dll
+C:\Users\SALIFOU Ouzéïrou\RiderProjects\API_PRODUCT\API_PRODUCT.Application\bin\Debug\net10.0\API_PRODUCT.Application.pdb
+C:\Users\SALIFOU Ouzéïrou\RiderProjects\API_PRODUCT\API_PRODUCT.Application\bin\Debug\net10.0\API_PRODUCT.Domain.dll
+C:\Users\SALIFOU Ouzéïrou\RiderProjects\API_PRODUCT\API_PRODUCT.Application\bin\Debug\net10.0\API_PRODUCT.Domain.pdb
+C:\Users\SALIFOU Ouzéïrou\RiderProjects\API_PRODUCT\API_PRODUCT.Application\obj\Debug\net10.0\API_PRODUCT.Application.csproj.AssemblyReference.cache
+C:\Users\SALIFOU Ouzéïrou\RiderProjects\API_PRODUCT\API_PRODUCT.Application\obj\Debug\net10.0\API_PRODUCT.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SALIFOU Ouzéïrou\RiderProjects\API_PRODUCT\API_PRODUCT.Application\obj\Debug\net10.0\API_PRODUCT.Application.AssemblyInfoInputs.cache
+C:\Users\SALIFOU Ouzéïrou\RiderProjects\API_PRODUCT\API_PRODUCT.Application\obj\Debug\net10.0\API_PRODUCT.Application.AssemblyInfo.cs
+C:\Users\SALIFOU Ouzéïrou\RiderProjects\API_PRODUCT\API_PRODUCT.Application\obj\Debug\net10.0\API_PRODUCT.Application.csproj.CoreCompileInputs.cache
+C:\Users\SALIFOU Ouzéïrou\RiderProjects\API_PRODUCT\API_PRODUCT.Application\obj\Debug\net10.0\API_PRODUCT.Application.sourcelink.json
+C:\Users\SALIFOU Ouzéïrou\RiderProjects\API_PRODUCT\API_PRODUCT.Application\obj\Debug\net10.0\API_PROD.C699C01B.Up2Date
+C:\Users\SALIFOU Ouzéïrou\RiderProjects\API_PRODUCT\API_PRODUCT.Application\obj\Debug\net10.0\API_PRODUCT.Application.dll
+C:\Users\SALIFOU Ouzéïrou\RiderProjects\API_PRODUCT\API_PRODUCT.Application\obj\Debug\net10.0\refint\API_PRODUCT.Application.dll
+C:\Users\SALIFOU Ouzéïrou\RiderProjects\API_PRODUCT\API_PRODUCT.Application\obj\Debug\net10.0\API_PRODUCT.Application.pdb
+C:\Users\SALIFOU Ouzéïrou\RiderProjects\API_PRODUCT\API_PRODUCT.Application\obj\Debug\net10.0\ref\API_PRODUCT.Application.dll

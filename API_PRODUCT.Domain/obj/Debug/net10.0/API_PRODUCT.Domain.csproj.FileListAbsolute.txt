@@ -1,0 +1,12 @@
+C:\Users\SALIFOU Ouzéïrou\RiderProjects\API_PRODUCT\API_PRODUCT.Domain\bin\Debug\net10.0\API_PRODUCT.Domain.deps.json
+C:\Users\SALIFOU Ouzéïrou\RiderProjects\API_PRODUCT\API_PRODUCT.Domain\bin\Debug\net10.0\API_PRODUCT.Domain.dll
+C:\Users\SALIFOU Ouzéïrou\RiderProjects\API_PRODUCT\API_PRODUCT.Domain\bin\Debug\net10.0\API_PRODUCT.Domain.pdb
+C:\Users\SALIFOU Ouzéïrou\RiderProjects\API_PRODUCT\API_PRODUCT.Domain\obj\Debug\net10.0\API_PRODUCT.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SALIFOU Ouzéïrou\RiderProjects\API_PRODUCT\API_PRODUCT.Domain\obj\Debug\net10.0\API_PRODUCT.Domain.AssemblyInfoInputs.cache
+C:\Users\SALIFOU Ouzéïrou\RiderProjects\API_PRODUCT\API_PRODUCT.Domain\obj\Debug\net10.0\API_PRODUCT.Domain.AssemblyInfo.cs
+C:\Users\SALIFOU Ouzéïrou\RiderProjects\API_PRODUCT\API_PRODUCT.Domain\obj\Debug\net10.0\API_PRODUCT.Domain.csproj.CoreCompileInputs.cache
+C:\Users\SALIFOU Ouzéïrou\RiderProjects\API_PRODUCT\API_PRODUCT.Domain\obj\Debug\net10.0\API_PRODUCT.Domain.sourcelink.json
+C:\Users\SALIFOU Ouzéïrou\RiderProjects\API_PRODUCT\API_PRODUCT.Domain\obj\Debug\net10.0\API_PRODUCT.Domain.dll
+C:\Users\SALIFOU Ouzéïrou\RiderProjects\API_PRODUCT\API_PRODUCT.Domain\obj\Debug\net10.0\refint\API_PRODUCT.Domain.dll
+C:\Users\SALIFOU Ouzéïrou\RiderProjects\API_PRODUCT\API_PRODUCT.Domain\obj\Debug\net10.0\API_PRODUCT.Domain.pdb
+C:\Users\SALIFOU Ouzéïrou\RiderProjects\API_PRODUCT\API_PRODUCT.Domain\obj\Debug\net10.0\ref\API_PRODUCT.Domain.dll
