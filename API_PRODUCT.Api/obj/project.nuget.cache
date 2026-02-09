@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tOxRNxCXJk4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SALIFOU Ouzéïrou\\RiderProjects\\API_PRODUCT\\API_PRODUCT.Api\\API_PRODUCT.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SALIFOU Ouzéïrou\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.2\\microsoft.aspnetcore.openapi.10.0.2.nupkg.sha512",
+    "C:\\Users\\SALIFOU Ouzéïrou\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
