@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SALIFOU Ouzéïrou\\RiderProjects\\API_PRODUCT\\API_PRODUCT.Api\\API_PRODUCT.API.csproj": {}
+    "C:\\Users\\SALIFOU Ouzéïrou\\RiderProjects\\API_PRODUCT\\API_PRODUCT.Api\\API_PRODUCT.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SALIFOU Ouzéïrou\\RiderProjects\\API_PRODUCT\\API_PRODUCT.Api\\API_PRODUCT.API.csproj": {
+    "C:\\Users\\SALIFOU Ouzéïrou\\RiderProjects\\API_PRODUCT\\API_PRODUCT.Api\\API_PRODUCT.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SALIFOU Ouzéïrou\\RiderProjects\\API_PRODUCT\\API_PRODUCT.Api\\API_PRODUCT.API.csproj",
-        "projectName": "API_PRODUCT.API",
-        "projectPath": "C:\\Users\\SALIFOU Ouzéïrou\\RiderProjects\\API_PRODUCT\\API_PRODUCT.Api\\API_PRODUCT.API.csproj",
+        "projectUniqueName": "C:\\Users\\SALIFOU Ouzéïrou\\RiderProjects\\API_PRODUCT\\API_PRODUCT.Api\\API_PRODUCT.Api.csproj",
+        "projectName": "API_PRODUCT.Api",
+        "projectPath": "C:\\Users\\SALIFOU Ouzéïrou\\RiderProjects\\API_PRODUCT\\API_PRODUCT.Api\\API_PRODUCT.Api.csproj",
         "packagesPath": "C:\\Users\\SALIFOU Ouzéïrou\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\SALIFOU Ouzéïrou\\RiderProjects\\API_PRODUCT\\API_PRODUCT.Api\\obj\\",
         "projectStyle": "PackageReference",
