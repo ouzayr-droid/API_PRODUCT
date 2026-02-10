@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ihMjJbEYi+o=",
+  "dgSpecHash": "ygNZBCdiZpE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\SALIFOU Ouzéïrou\\RiderProjects\\API_PRODUCT\\API_PRODUCT.Api\\API_PRODUCT.API.csproj",
+  "projectFilePath": "C:\\Users\\SALIFOU Ouzéïrou\\RiderProjects\\API_PRODUCT\\API_PRODUCT.Api\\API_PRODUCT.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SALIFOU Ouzéïrou\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\SALIFOU Ouzéïrou\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.2\\microsoft.aspnetcore.openapi.10.0.2.nupkg.sha512",
@@ -43,5 +43,15 @@
     "C:\\Users\\SALIFOU Ouzéïrou\\.nuget\\packages\\system.composition.runtime\\9.0.0\\system.composition.runtime.9.0.0.nupkg.sha512",
     "C:\\Users\\SALIFOU Ouzéïrou\\.nuget\\packages\\system.composition.typedparts\\9.0.0\\system.composition.typedparts.9.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "projectPath": "C:\\Users\\SALIFOU Ouzéïrou\\RiderProjects\\API_PRODUCT\\API_PRODUCT.Api\\API_PRODUCT.Api.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\SALIFOU Ouzéïrou\\RiderProjects\\API_PRODUCT\\API_PRODUCT.Api\\API_PRODUCT.Api.csproj",
+      "targetGraphs": []
+    }
+  ]
 }
