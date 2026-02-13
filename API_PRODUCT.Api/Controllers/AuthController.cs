@@ -5,6 +5,7 @@ using API_PRODUCT.Application.DTOs;
 using API_PRODUCT.Application.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
+using Microsoft.Extensions.Configuration;
 
 namespace API_PRODUCT.Controllers;
 
@@ -13,11 +14,13 @@ namespace API_PRODUCT.Controllers;
 public class AuthController: ControllerBase
 {
     private readonly AuthService _authService;
-    private const string Key = "THIS_IS_A_SUPER_SECRET_KEY_12345";
+    private readonly IConfiguration _configuration;
 
-    public AuthController(AuthService authService)
+    public AuthController(AuthService authService, IConfiguration configuration)
     {
         _authService = authService;
+        _configuration = configuration;
+        
     }
 
     [HttpPost("register")]
@@ -33,7 +36,8 @@ public class AuthController: ControllerBase
         var user = _authService.Login(request);
 
         var tokenHandler = new JwtSecurityTokenHandler();
-        var key = Encoding.UTF8.GetBytes(Key);
+        var secretKey = _configuration["Jwt:Key"];
+        var key = Encoding.UTF8.GetBytes(secretKey!);
 
         var tokenDescriptor = new SecurityTokenDescriptor
         {
