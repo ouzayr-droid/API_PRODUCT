@@ -36,7 +36,10 @@ public class AuthController: ControllerBase
         var user = _authService.Login(request);
 
         var tokenHandler = new JwtSecurityTokenHandler();
-        var secretKey = _configuration["Jwt:Key"];
+        var secretKey = _configuration["Jwt:Key"]
+                        ?? throw new InvalidOperationException("JWT Key not configured");
+
+
 
         var tokenDescriptor = new SecurityTokenDescriptor
         {
