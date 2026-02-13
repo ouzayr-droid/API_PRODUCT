@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ygNZBCdiZpE=",
+  "dgSpecHash": "BZyrOiTxn5Q=",
   "success": true,
   "projectFilePath": "C:\\Users\\SALIFOU Ouzéïrou\\RiderProjects\\API_PRODUCT\\API_PRODUCT.Api\\API_PRODUCT.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SALIFOU Ouzéïrou\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\SALIFOU Ouzéïrou\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\10.0.3\\microsoft.aspnetcore.authentication.jwtbearer.10.0.3.nupkg.sha512",
     "C:\\Users\\SALIFOU Ouzéïrou\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.2\\microsoft.aspnetcore.openapi.10.0.2.nupkg.sha512",
     "C:\\Users\\SALIFOU Ouzéïrou\\.nuget\\packages\\microsoft.build.framework\\18.0.2\\microsoft.build.framework.18.0.2.nupkg.sha512",
     "C:\\Users\\SALIFOU Ouzéïrou\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.11.0\\microsoft.codeanalysis.analyzers.3.11.0.nupkg.sha512",
@@ -23,6 +24,12 @@
     "C:\\Users\\SALIFOU Ouzéïrou\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\10.0.2\\microsoft.entityframeworkcore.sqlite.core.10.0.2.nupkg.sha512",
     "C:\\Users\\SALIFOU Ouzéïrou\\.nuget\\packages\\microsoft.extensions.apidescription.server\\10.0.0\\microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
     "C:\\Users\\SALIFOU Ouzéïrou\\.nuget\\packages\\microsoft.extensions.dependencymodel\\10.0.2\\microsoft.extensions.dependencymodel.10.0.2.nupkg.sha512",
+    "C:\\Users\\SALIFOU Ouzéïrou\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.0.1\\microsoft.identitymodel.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\SALIFOU Ouzéïrou\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.0.1\\microsoft.identitymodel.jsonwebtokens.8.0.1.nupkg.sha512",
+    "C:\\Users\\SALIFOU Ouzéïrou\\.nuget\\packages\\microsoft.identitymodel.logging\\8.0.1\\microsoft.identitymodel.logging.8.0.1.nupkg.sha512",
+    "C:\\Users\\SALIFOU Ouzéïrou\\.nuget\\packages\\microsoft.identitymodel.protocols\\8.0.1\\microsoft.identitymodel.protocols.8.0.1.nupkg.sha512",
+    "C:\\Users\\SALIFOU Ouzéïrou\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\8.0.1\\microsoft.identitymodel.protocols.openidconnect.8.0.1.nupkg.sha512",
+    "C:\\Users\\SALIFOU Ouzéïrou\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.0.1\\microsoft.identitymodel.tokens.8.0.1.nupkg.sha512",
     "C:\\Users\\SALIFOU Ouzéïrou\\.nuget\\packages\\microsoft.openapi\\2.4.1\\microsoft.openapi.2.4.1.nupkg.sha512",
     "C:\\Users\\SALIFOU Ouzéïrou\\.nuget\\packages\\microsoft.visualstudio.solutionpersistence\\1.0.52\\microsoft.visualstudio.solutionpersistence.1.0.52.nupkg.sha512",
     "C:\\Users\\SALIFOU Ouzéïrou\\.nuget\\packages\\mono.texttemplating\\3.0.0\\mono.texttemplating.3.0.0.nupkg.sha512",
@@ -41,17 +48,8 @@
     "C:\\Users\\SALIFOU Ouzéïrou\\.nuget\\packages\\system.composition.convention\\9.0.0\\system.composition.convention.9.0.0.nupkg.sha512",
     "C:\\Users\\SALIFOU Ouzéïrou\\.nuget\\packages\\system.composition.hosting\\9.0.0\\system.composition.hosting.9.0.0.nupkg.sha512",
     "C:\\Users\\SALIFOU Ouzéïrou\\.nuget\\packages\\system.composition.runtime\\9.0.0\\system.composition.runtime.9.0.0.nupkg.sha512",
-    "C:\\Users\\SALIFOU Ouzéïrou\\.nuget\\packages\\system.composition.typedparts\\9.0.0\\system.composition.typedparts.9.0.0.nupkg.sha512"
+    "C:\\Users\\SALIFOU Ouzéïrou\\.nuget\\packages\\system.composition.typedparts\\9.0.0\\system.composition.typedparts.9.0.0.nupkg.sha512",
+    "C:\\Users\\SALIFOU Ouzéïrou\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.0.1\\system.identitymodel.tokens.jwt.8.0.1.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
-      "projectPath": "C:\\Users\\SALIFOU Ouzéïrou\\RiderProjects\\API_PRODUCT\\API_PRODUCT.Api\\API_PRODUCT.Api.csproj",
-      "warningLevel": 1,
-      "filePath": "C:\\Users\\SALIFOU Ouzéïrou\\RiderProjects\\API_PRODUCT\\API_PRODUCT.Api\\API_PRODUCT.Api.csproj",
-      "targetGraphs": []
-    }
-  ]
+  "logs": []
 }

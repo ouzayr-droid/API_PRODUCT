@@ -1,9 +1,11 @@
 ﻿using API_PRODUCT.Application.DTOs;
 using API_PRODUCT.Application.Interfaces;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace API_PRODUCT.Controllers;
 
+[Authorize]
 [ApiController]
 [Route("api/orders")]
 public class OrderController: ControllerBase
