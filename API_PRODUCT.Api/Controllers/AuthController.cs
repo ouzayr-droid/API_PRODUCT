@@ -37,7 +37,6 @@ public class AuthController: ControllerBase
 
         var tokenHandler = new JwtSecurityTokenHandler();
         var secretKey = _configuration["Jwt:Key"];
-        var key = Encoding.UTF8.GetBytes(secretKey!);
 
         var tokenDescriptor = new SecurityTokenDescriptor
         {
@@ -47,7 +46,7 @@ public class AuthController: ControllerBase
             }),
             Expires = DateTime.UtcNow.AddHours(2),
             SigningCredentials = new SigningCredentials(
-                new SymmetricSecurityKey(key),
+                new SymmetricSecurityKey(Encoding.UTF8.GetBytes(secretKey!)),
                 SecurityAlgorithms.HmacSha256Signature)
         };
         
