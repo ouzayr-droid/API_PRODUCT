@@ -1,5 +1,6 @@
 using API_PRODUCT.Application.Services;
 using API_PRODUCT.Infrastructure;
+using API_PRODUCT.Infrastructure.Security;
 using API_PRODUCT.Infrastructure.Repositories;
 using API_PRODUCT.Domain.Interfaces;
 using API_PRODUCT.Application.Interfaces;
@@ -53,6 +54,7 @@ builder.Services.AddAuthentication(options =>
 builder.Services.AddScoped<ProductService>();
 builder.Services.AddScoped<IOrderService, OrderService>();
 builder.Services.AddScoped<IOrderRepository, InMemoryOrderRepository>();
+builder.Services.AddScoped<JwtTokenService>();
 
 // --------------------
 // Auth

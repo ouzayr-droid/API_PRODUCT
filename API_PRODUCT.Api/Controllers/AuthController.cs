@@ -6,6 +6,7 @@ using API_PRODUCT.Application.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.Extensions.Configuration;
+using API_PRODUCT.Infrastructure.Security;
 
 namespace API_PRODUCT.Controllers;
 
@@ -16,11 +17,10 @@ public class AuthController: ControllerBase
     private readonly AuthService _authService;
     private readonly IConfiguration _configuration;
 
-    public AuthController(AuthService authService, IConfiguration configuration)
+    public AuthController(AuthService authService, JwtTokenService jwtTokenService)
     {
         _authService = authService;
-        _configuration = configuration;
-        
+        _jwtTokenService = jwtTokenService;
     }
 
     [HttpPost("register")]
